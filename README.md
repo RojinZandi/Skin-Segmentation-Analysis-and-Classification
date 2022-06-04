@@ -7,4 +7,4 @@ Model Development (Logistic Regression, LDA, QDA, KNN, Decision Tree, Random For
 
 
 
-Fine Tuning
+To fine-tune the models, \sc{GridSearchCV} have been used.
